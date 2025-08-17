@@ -1,5 +1,10 @@
+# dependencies
 node_modules/
+ 
+# build
 .next/
-dist/
-.env
+out/
 
+# misc
+.DS_Store
+.env
